@@ -36,6 +36,7 @@ class _CountryScreenState extends State<CountryScreen> {
   @override
   void initState() {
     super.initState();
+    // This function fetches country data from the API and updates the state
     fetchCountryData();
   }
 
