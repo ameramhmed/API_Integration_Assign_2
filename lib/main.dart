@@ -44,7 +44,7 @@ class _CountryScreenState extends State<CountryScreen> {
     return Scaffold(
       backgroundColor: Colors.grey[100],
       appBar: AppBar(
-        title: const Text("API Integration Assignment"),
+        title: const Text("Rest Countries API - Assignment 2"),
         backgroundColor: Colors.indigo,
         foregroundColor: Colors.white,
       ),
